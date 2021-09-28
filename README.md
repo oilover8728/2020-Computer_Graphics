@@ -1,7 +1,7 @@
 # 2020-Computer_Graphics Final Project
 
 ## - 1. Target
-利用前面 HW1: Transformer 、 HW2:Texture 、 HW3: Shader ，學到的各種方法來做出一個簡單的小動畫，我主要是利用Shader來做出一些特效
+利用前面 HW1: Transformer 、 HW2:Texture 、 HW3: Shader ，利用Shader來做出3個特效，並將前面HW學到的各種方法來做出一個簡單的小動畫，
 
 ## - 2. Idea
 1. Inversion : 夜精靈邊旋轉，組成其圖像的三角形邊往外爆裂出去，形成看起來像自爆的效果，接著再時間倒流，回到最一開始的模樣  
